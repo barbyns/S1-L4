@@ -15,6 +15,7 @@ header>li{
     list-style: none; /* Rimuove i puntini */
     padding: 0; /* Rimuove il padding predefinito */
     margin: 0; /* Rimuove il margine predefinito */
+    border: 50px;
 }
 #topbar li{
     text-align: center;
